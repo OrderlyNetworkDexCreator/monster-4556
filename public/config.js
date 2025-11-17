@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "MONster DEX",
   "VITE_SEO_SITE_DESCRIPTION": "MONster is a Perp DEX on Monad engineered specifically for chaos, speed, and legendary degen moments.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/monster-4556/",
+  "VITE_SEO_SITE_URL": "https://monsterdex.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
